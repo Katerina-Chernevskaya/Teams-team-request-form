@@ -66,6 +66,7 @@ Set the list up as follows:
 ![SampleList Step1](assets/SampleList_Step1.png)
 * Type the name for your new list: `TeamsRequest`
 * Add 9 columns to your list:
+
 |Type|Internal Name|Required|
 |---|---|---|
 |Multiple lines of text|Description|No|
