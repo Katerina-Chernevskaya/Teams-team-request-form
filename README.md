@@ -67,7 +67,7 @@ Set the list up as follows:
 * Type the name for your new list: `TeamsRequest`
 * Add 9 columns to your list:
 |Type|Internal Name|Required|
-|---|---|:---:|
+|---|---|---|
 |Multiple lines of text|Description|No|
 |Single line of text|Kind|No|
 |Person or Group|Requestor|No|
@@ -108,7 +108,7 @@ Set the list up as follows:
 ![Step10](assets/Step10.png)
 * Save, publish and pin the app in your team
 * Go back to your solution, select the cloud flow `Create a new Team per request` and click on `Turn on`
-![Step11](assets/Step2.png)
+![Step11](assets/Step11.png)
 
 Once all steps will be completed users will be able to use this app to submit requests for team creation in Microsoft Teams, even if they don't have permissions to create a team manually in Microsoft Teams.
 
