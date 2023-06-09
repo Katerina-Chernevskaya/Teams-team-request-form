@@ -25,7 +25,7 @@ This sample helps standardize the process of creating teams, especially for ente
 
 Solution|Author(s)
 --------|---------
-Teams-team-request-form | [Katerina Chernevskaya](https://github.com/Katerina-Chernevskaya) ([LinkedIn](https://www.linkedin.com/in/katerinachernevskaya/)), Awara IT Academyy
+Teams-team-request-form | [Katerina Chernevskaya](https://github.com/Katerina-Chernevskaya) ([LinkedIn](https://www.linkedin.com/in/katerinachernevskaya/)), Awara IT Academy
 
 ## Version history
 
@@ -135,4 +135,4 @@ Finally, if you have an idea for improvement, [make a suggestion](https://github
 - [Power Apps canvas apps documentation](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/)
 
 
-<img src="https://telemetry.sharepointpnp.com/powerapps-samples/samples/readme-template" />
+<img src="https://telemetry.sharepointpnp.com/powerapps-samples/samples/teams-team-request-form" />
